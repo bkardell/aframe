@@ -139,6 +139,7 @@ front-facing changes to A-Frame developers, involving mostly renaming of APIs.
 
 - [Supermedium](https://www.supermedium.com) (available on Oculus and Steam)
 - Firefox
+- [Wolvic XR](https://wolvic.com/en/)
 - Oculus Browser
 - Samsung Internet
 - Microsoft Edge
